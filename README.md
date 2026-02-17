@@ -30,9 +30,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaeelhashmi&show_icons=true&theme=github_dark&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaeelhashmi&theme=github-dark-blue"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaeelhashmi&layout=compact&theme=github_dark"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaeelhashmi&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaeelhashmi&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaeelhashmi&theme=github_dark" />
+  <img height="180" src="https://streak-stats.demolab.com?user=shaeelhashmi&theme=github-dark" />
 </p>
 
 ---
