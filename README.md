@@ -13,15 +13,15 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white"/>
   <!-- Frameworks and Libraries -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
@@ -29,27 +29,81 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaeelhashmi&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaeelhashmi&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaeelhashmi&theme=github_dark" />
-  <img height="180" src="https://streak-stats.demolab.com?user=shaeelhashmi&theme=github-dark" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                    📈 GITHUB STATISTICS                          ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ⭐ Total Stars:              1                                  ║
+║  💾 Total Commits:            802+                               ║
+║  🔀 Total PRs:                12                                 ║
+║  🐛 Total Issues:             1.2k+                              ║
+║  🤝 Contributed to:           23 repositories                    ║
+║                                                                  ║
+║  🏆 Primary Languages:        TypeScript, JavaScript, Python     ║
+║  📚 Frameworks:               React, Node.js, Express.js         ║
+║  🗄️  Databases:               MongoDB, MySQL                     ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Status: 🟢 Active Developer | 🚀 Open Source Enthusiast        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### 🔥 Contribution Graph
+### 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff99/shaeelhashmi?bg=0d1117">
+  <img alt="Contribution Graph" src="https://ghchart.rshah.org/00ff99/shaeelhashmi">
 </p>
+
+```
+Last Updated: 2026
+Contribution Streak: 🔥 Keep Building!
+```
 
 ---
 
-### 🌐 Portfolio
+### 📚 My Projects
+
+#### 🤖 Machine Learning & AI
+- **[Bearing-Prediction](https://github.com/shaeelhashmi/Bearing-Prediction)** - Predictive maintenance using machine learning
+- **[Salary-Predictor](https://github.com/shaeelhashmi/Salary-Predictor)** - ML model for salary prediction
+- **[Sentiment-Analyzer](https://github.com/shaeelhashmi/Sentiment-Analyzer)** - Natural language processing for sentiment analysis
+- **[Urdu-character-classifier](https://github.com/shaeelhashmi/Urdu-character-classifier)** - Deep learning classifier for Urdu characters
+
+#### 🌐 Full-Stack Web Applications
+- **[Chat-application](https://github.com/shaeelhashmi/Chat-application)** - Real-time chat platform with friend management, adding/removing and blocking features
+- **[Notes-app](https://github.com/shaeelhashmi/Notes-app)** - Secure notes application with Google OAuth2 authentication
+- **[Notes-app-Frontend](https://github.com/shaeelhashmi/Notes-app-Frontend)** - Frontend for secure notes application
+- **[news-recommendation-algorithm](https://github.com/shaeelhashmi/news-recommendation-algorithm)** - Personalized news recommendation engine with activity-based learning
+
+#### 📱 Desktop & Mobile Applications
+- **[Speech-To-Text-App](https://github.com/shaeelhashmi/Speech-To-Text-App)** - Speech recognition application
+
+#### 🌟 Open Source Contributions
+- **[gravityRecorder](https://github.com/shaeelhashmi/gravityRecorder)** - Open source Loom alternative with professional, local-first screen recordings and studio-grade UI
+- **[nativewind](https://github.com/shaeelhashmi/nativewind)** - Utility-first workflow from Tailwind CSS for React Native applications
+- **[responsively-lazy](https://github.com/shaeelhashmi/responsively-lazy)** - Lazy load responsive images and HTML
+
+#### 🛠️ Utilities & Tools
+- **[FTP-rust](https://github.com/shaeelhashmi/FTP-rust)** - FTP implementation in Rust
+- **[Parser](https://github.com/shaeelhashmi/Parser)** - Custom parser implementation
+- **[Issue-creation-automation-script](https://github.com/shaeelhashmi/Issue-creation-automation-script)** - Automation script for issue creation
+
+#### 🎯 Other Projects
+- **[Project-TMS](https://github.com/shaeelhashmi/Project-TMS)** - Task management system
+- **[Text-analyzer-built-using-react](https://github.com/shaeelhashmi/Text-analyzer-built-using-react)** - Text analysis tool built with React
+- **[SpaceInvaders](https://github.com/shaeelhashmi/SpaceInvaders)** - Classic Space Invaders game
+- **[sway-config](https://github.com/shaeelhashmi/sway-config)** - Sway window manager configuration
+- **[shaeelhashmi.github.io](https://github.com/shaeelhashmi/shaeelhashmi.github.io)** - Personal portfolio website
+
+---
+
+### 🌐 Portfolio & Social Links
 
 <p align="center">
   <a href="https://shaeelhashmi.github.io/" target="_blank">
@@ -60,9 +114,24 @@
 ---
 
 ### 🤝 Let's Connect!
+
+```
+📧 Email      → shaeelh001@email.com
+💼 LinkedIn   → linkedin.com/in/muhammad-shaeel-arshad-hashmi
+🤗 Hugging Face → huggingface.co/shaeel12
+📊 Kaggle     → kaggle.com/shaeelhashmi
+🌐 Portfolio  → shaeelhashmi.github.io
+```
+
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-shaeel-arshad-hashmi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/shaeel12" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://www.kaggle.com/shaeelhashmi/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="mailto:shaeelh001@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
